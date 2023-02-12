@@ -18,4 +18,5 @@ Motor Block
 
 ## Prototype
 The CAD design of the prototype was a modified version of Dejan Nedelkovski's 4-DOF robotic arm which relied on servo motors for actuation. The design was modified to support 3 high torque, low speed DC motors with hall-effect encoders.
+
 ![alt text](https://github.com/a-rilley/3_DOF_Robotic_Arm/blob/main/Photos/Robot%20Arm%20Assembly.png)

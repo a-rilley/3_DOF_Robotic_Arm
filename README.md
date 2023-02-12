@@ -8,3 +8,6 @@ Design and simulation of a mechatronic system which actuates a robotic arm using
 - Arduino, DC motors, L298N dual H-bridge motor driver
 - PID Control: speed, position
 - MATLAB: Simulink, Simscape
+
+## Simulink Model
+![alt text](https://github.com/a-rilley/3_DOF_Robotic_Arm/blob/main/Simulink%20Blocks/Simulink%20Model.png)

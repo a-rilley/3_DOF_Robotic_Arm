@@ -1,5 +1,5 @@
 # 3_DOF_Robotic_Arm
-## Robotic Arm Simulation in MATLAB with Arduino prototype
+## Robotic Arm Simulation in MATLAB Simulink with Arduino prototype
 This project involved the development of a 3-degree of freedom robotic arm / manipulator. The MATLAB Simulink solution and the physical prototype were critically damped, if not slightly overdamped. However, for the short movements it needed to perform, this was ok at the time. It could be improved by properly tuning the PID controller.
 
 ## Project Description

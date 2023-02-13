@@ -10,10 +10,10 @@ Design and simulation of a mechatronic system which actuates a robotic arm using
 - MATLAB: Simulink, Simscape
 
 ## Simulink Model
-Full Model
+Full Simulink Model
 ![alt text](https://github.com/a-rilley/3_DOF_Robotic_Arm/blob/main/Simulink%20Blocks/Simulink%20Model.png)
 
-Motor Block
+Simscape Motor Model/Block
 ![alt text](https://github.com/a-rilley/3_DOF_Robotic_Arm/blob/main/Simulink%20Blocks/Simulink%20Model-Motor%20Block.png)
 
 ## Prototype
